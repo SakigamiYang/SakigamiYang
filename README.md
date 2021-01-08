@@ -15,8 +15,8 @@ I'm an algorithm engineer who is passionate about AI, mathematics and open sourc
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SakigamiYang)
 
 <a href="https://github.com/SakigamiYang/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SakigamiYang&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SakigamiYang&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/SakigamiYang/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakigamiYang&hide_border=true&theme=dark&exclude_repo=SakigamiYang.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakigamiYang&theme=dark&exclude_repo=SakigamiYang.github.io" />
 </a>
