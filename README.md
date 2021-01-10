@@ -1,5 +1,9 @@
 # Woohoo!~~
 
+<p width="100%" margin="0 auto" align="center">
+  <img src="bunny-girl.jpeg" width="200" height="200">
+</p>
+
 I'm [Sakigami Yang](https://github.com/SakigamiYang).
 
 And I like calling myself Ai-Tutu.
