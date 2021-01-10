@@ -1,6 +1,6 @@
 # Woohoo!~~
 
-<p width="100%" margin="0 auto" align="center">
+<p width="100%" margin="0 auto" >
   <img src="bunny-girl.jpeg" width="200" height="200">
 </p>
 
