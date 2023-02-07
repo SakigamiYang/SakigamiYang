@@ -18,9 +18,13 @@ I'm an algorithm engineer who is passionate about AI, mathematics and open sourc
 [![Blog Badge](https://img.shields.io/badge/-Blog-blueviolet?style=flat-square&logo=WordPress&logoColor=white&link=https://sakigami-yang.me)](https://sakigami-yang.me)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SakigamiYang)
 
+<p>
 <a href="https://github.com/SakigamiYang/github-readme-stats">
   <img align="left" src="https://readme-stats.clckblog.space/api?username=SakigamiYang&show_icons=true&theme=dark" />
-</a><br />
+</a>
+</p>
+<p>
 <a href="https://github.com/SakigamiYang/github-readme-stats">
   <img align="left" src="https://readme-stats.clckblog.space/api/top-langs/?username=SakigamiYang&theme=dark&exclude_repo=SakigamiYang.github.io" />
 </a>
+</p>
