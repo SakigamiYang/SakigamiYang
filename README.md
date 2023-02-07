@@ -20,7 +20,7 @@ I'm an algorithm engineer who is passionate about AI, mathematics and open sourc
 
 <a href="https://github.com/SakigamiYang/github-readme-stats">
   <img align="left" src="https://readme-stats.clckblog.space/api?username=SakigamiYang&show_icons=true&theme=dark" />
-</a>
+</a><br />
 <a href="https://github.com/SakigamiYang/github-readme-stats">
   <img align="left" src="https://readme-stats.clckblog.space/api/top-langs/?username=SakigamiYang&theme=dark&exclude_repo=SakigamiYang.github.io" />
 </a>
