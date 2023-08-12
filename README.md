@@ -1,8 +1,6 @@
-# Woohoo!~~
+![Header](./me-banner.png)
 
-<p width="100%" margin="0 auto" >
-  <img src="bunny-girl.jpeg" width="200" height="200">
-</p>
+# Woohoo!~~
 
 I'm [Sakigami Yang](https://github.com/SakigamiYang).
 
